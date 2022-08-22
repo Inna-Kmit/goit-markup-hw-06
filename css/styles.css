@@ -642,7 +642,6 @@ img {
   display: flex;
   padding: 0;
 }
-
 .acept-item:not(:last-child) {
   margin-right: 10px;
 }
